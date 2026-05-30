@@ -2,7 +2,7 @@
   "name":"nx-next",
   "version":"1.0.0",
   "bin": {
-    "nx-next":"./index.js"
+    "nx-next":"./bin/index.js"
   },
   "dependencies": {
     "bun":"^1.3.14"
