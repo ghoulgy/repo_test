@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { execSync, spawn } = require('child_process');
 
 console.log("Starting script...\n");
